@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennyhe
+- 👋 Hi, I’m @Kenny
 - 👀 I’m interested in Python ❤
 - 🌱 I’m currently learning Python 👌❤
 - 💞️ I’m looking to collaborate on developing Python games 😎
