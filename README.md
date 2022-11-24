@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kenny
-- 👀 I’m interested in Python ❤
-- 🌱 I’m currently learning Python 👌❤
-- 💞️ I’m looking to collaborate on developing Python games 😎
-- 📫 How to reach me:
-Discord: Misfit#8592
+- Hi, I’m @Kenny
+- I’m interested in Python and Linux server ❤
+- I started learning on 11/24/2022 ❤
+
+
+Here I will share all my projects that helped me in my learning. Every video, every book.
